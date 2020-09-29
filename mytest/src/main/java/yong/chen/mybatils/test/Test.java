@@ -5,7 +5,7 @@
 //import yong.chen.mybatils.app.AppConfig;
 //
 ///**
-// * @author 陈勇【chenyong@happycfc.com】
+// * @author 陈勇
 // * @Date 2020/9/28 19:40
 // */
 //public class Test {

@@ -1,7 +1,7 @@
 package yong.chen.ioc.bean;
 
 /**
- * @author 陈勇【chenyong@happycfc.com】
+ * @author 陈勇
  * @Date 2020/9/28 9:51
  */
 public class MyTestBean {

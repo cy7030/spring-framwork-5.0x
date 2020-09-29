@@ -7,7 +7,7 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
 /**
- * @author 陈勇【chenyong@happycfc.com】
+ * @author 陈勇
  * @Date 2020/9/28 9:51
  */
 @SuppressWarnings("deprecation")
